@@ -1,5 +1,6 @@
 {
   "homepage": "https://KrrishikaRana.github.io/oops",
+
   "name": "person-hierarchy",
   "version": "0.1.0",
   "private": true,
@@ -16,6 +17,10 @@
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
+<<<<<<< HEAD
+=======
+
+>>>>>>> 507ff92a85a9dc7f88767b867c44fc06ed4e29d3
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
