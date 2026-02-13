@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/person-hierarchy/static/css/main.301a4dbf.css",
-    "main.js": "/person-hierarchy/static/js/main.bef1ad99.js",
-    "static/js/453.d37899d0.chunk.js": "/person-hierarchy/static/js/453.d37899d0.chunk.js",
-    "index.html": "/person-hierarchy/index.html",
-    "main.301a4dbf.css.map": "/person-hierarchy/static/css/main.301a4dbf.css.map",
-    "main.bef1ad99.js.map": "/person-hierarchy/static/js/main.bef1ad99.js.map",
-    "453.d37899d0.chunk.js.map": "/person-hierarchy/static/js/453.d37899d0.chunk.js.map"
+    "main.css": "/oops/static/css/main.301a4dbf.css",
+    "main.js": "/oops/static/js/main.47bf8ccc.js",
+    "static/js/453.d37899d0.chunk.js": "/oops/static/js/453.d37899d0.chunk.js",
+    "index.html": "/oops/index.html",
+    "main.301a4dbf.css.map": "/oops/static/css/main.301a4dbf.css.map",
+    "main.47bf8ccc.js.map": "/oops/static/js/main.47bf8ccc.js.map",
+    "453.d37899d0.chunk.js.map": "/oops/static/js/453.d37899d0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.301a4dbf.css",
-    "static/js/main.bef1ad99.js"
+    "static/js/main.47bf8ccc.js"
   ]
 }
